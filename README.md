@@ -1,11 +1,7 @@
 Wordpress ABRIL Estoque
 ============================
 
-Wordpress ABRIL Estoque é uma réplica do sistema básico de controle de estoque para o teste 1 
-de candidatura à vaga de Web Master junto à editora Abril.
-
-Infelizmente devido ao tempo curto e à falta de prática em ambientes Wordpress, não consegui finalizar totalmente
-o processo de replicar o sistema de controle de estoque.
+Wordpress ABRIL Estoque é uma réplica do sistema básico de controle de estoque feito em PHP/Yii2.
 
 No Wordpress foram adicionados Post Types para cada modelo (Pedido, Cliente e Produto), foram também criados os respetivos custom fields utilizando o plugin Advanced Custom Fields v4.4.5.
 
